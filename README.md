@@ -4,8 +4,8 @@ Repositório criado para oficina JD.
 Contendo o os códigos de automação do jogo [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/).
 #
 Os aquivos de código estão disponibilizados na pasta src.
-- [Código Básico](https://github.com/BrunoSilva-Correia/cookie-clicker/src/basico.py)
-- [Código Avançado](https://github.com/BrunoSilva-Correia/cookie-clicker/src/avancado.py)
+- [Código Básico](https://github.com/BrunoSilva-Correia/cookie-clicker/tree/main/src/basico.py)
+- [Código Avançado](https://github.com/BrunoSilva-Correia/cookie-clicker/tree/main/src/avancado.py)
 
 #
 Acesse conteúdo do curso
